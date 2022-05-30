@@ -5,8 +5,11 @@ module.exports = {
       colors: {
         brand: {
           500: "#8257e6"
-      }
-    },
+        },
+        dark: {
+          700: "#202024"
+        },
+      },
     },
   },
   plugins: [],
